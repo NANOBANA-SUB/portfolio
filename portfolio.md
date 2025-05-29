@@ -249,6 +249,9 @@ Qubic には多数のパラメータが存在し、**どの要素が退職と相
 このプロジェクトを通じて、**これまで事務所内の限られた人しか対応できなかった作業をすべて自動化** し、  
 業務の効率化に大きく貢献しました。
 ## 大学での研究について
+### **学会発表経験**
+“Performance Evaluation of Page Cache Management in Multi-Generation LRU”, The 52nd International Symposium on Computer Architecture - OSCA Workshop (ISCA OSCAR), 2025年, ショートペーパー, 主著（採択済み・2025年6月発表予定）
+
 ### **研究内容**
 
 Linux の **ページキャッシュアルゴリズムを改善し、ディスク I/O の性能向上を図る研究** を進めています。  
